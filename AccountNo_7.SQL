@@ -2,5 +2,5 @@ CREATE PROCEDURE usp_Test
 AS 
 BEGIN
 	SELECT * FROM ACCOUNTS
-		-- Test Amit
+
 END
